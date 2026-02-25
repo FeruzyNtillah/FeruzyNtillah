@@ -4,7 +4,7 @@
 Software Developer focused on building secure, scalable web applications.  
 Strong interest in User Interface development, backend systems and machine learning.
 
-Final Year Project buit a **Fraud Detection System for Instant Payments in Tanzania** using Neural Networks.
+Final Year Project built a **Fraud Detection System for Instant Payments in Tanzania** using Neural Networks.
 
 ---
 
